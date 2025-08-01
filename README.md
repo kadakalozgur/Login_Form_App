@@ -10,11 +10,11 @@
 
 ## 🖼️ Preview
 
-### 🧾 Kayıt Ekranı / Register Screen  
-![Register](loginformapp/ScreenShots/SignUpScreen.png)
+### 🧾 Register Screen / Kayıt Ekranı  
+![Register](LoginFormApp/ScreenShots/SignUpScreen.png)
 
-### 🔐 Giriş Ekranı / Login Screen  
-![Login](loginformapp/ScreenShots/loginScreen.png)
+### 🔐 Login Screen / Giriş Ekranı 
+![Login](LoginFormApp/ScreenShots/loginScreen.png)
 
 ---
 
