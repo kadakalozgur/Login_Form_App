@@ -1,2 +1,62 @@
-# Login_Form_App
-This project includes a simple and elegant login & registration system using Windows Forms WinForms.  // Bu proje, Windows Forms WinForms kullanılarak ayrıl basit ve şık bir giriş & kayıt sistemi içerir.
+# 🔐 Login Form App
+
+### - Developed by Özgür Kadakal
+
+**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.
+
+**⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.
+
+---
+
+## 🖼️ Preview
+
+### 🧾 Kayıt Ekranı / Register Screen  
+![Register](loginformapp/ScreenShots/SignUpScreen.png)
+
+### 🔐 Giriş Ekranı / Login Screen  
+![Login](loginformapp/ScreenShots/loginScreen.png)
+
+---
+
+## 🌍 English
+
+### 🔐 Login Form App  
+A basic and functional login/register application developed with C# and Windows Forms by Özgür Kadakal.
+
+### ✨ Features  
+- 🖱️ Button and label **hover effects** for improved interactivity  
+- 🔐 Password **show/hide toggle**  
+- 🗂️ Text file (`users.txt`) used as a simple data storage method  
+- ✅ Username duplication check  
+- 🎨 Modern and clean UI design  
+
+> 💡 **Note:** File handling logic has been partially assisted by artificial intelligence to ensure clean and efficient implementation.  
+
+> ⚠️ **Important:** Do not manually modify the generated `users.txt` file. Any manual changes such as editing or deleting user data may break the application.
+
+---
+
+## 🇹🇷 Türkçe
+
+### 🔐 Login Form App  
+C# ve Windows Forms kullanılarak Özgür Kadakal tarafından geliştirilmiş temel ve işlevsel bir giriş/kayıt uygulamasıdır.
+
+### ✨ Özellikler  
+- 🖱️ Buton ve etiketlerde **hover (üzerine gelme) efektleri**  
+- 🔐 Şifre **gizleme/gösterme özelliği**  
+- 🗂️ `users.txt` dosyası basit bir veri saklama yöntemi olarak kullanılır  
+- ✅ Kullanıcı adı tekrar kontrolü  
+- 🎨 Modern ve sade arayüz tasarımı  
+
+> 💡 **Not:** Dosya işlemleri kısmında yapay zekadan faydalanılmıştır.  
+
+> ⚠️ **Önemli Uyarı:** Uygulama tarafından oluşturulan `users.txt` dosyasında elle değişiklik yapmayınız. Kullanıcı verilerini silmek veya dosyayı düzenlemek uygulamanın çalışmasını bozabilir.
+
+---
+
+## 📬 Contact | İletişim  
+For any feedback, questions, or suggestions, feel free to contact me:  
+📧 ozgurkreach@gmail.com
+
+Her türlü geri bildirim, soru veya öneri için:  
+📧 ozgurkreach@gmail.com
