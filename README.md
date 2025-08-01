@@ -17,7 +17,7 @@
 ![Login](LoginFormApp/ScreenShots/loginScreen.png)
 
 ### 🔐 Input Screen / Girdi Ekranı 
-![Login](LoginFormApp/ScreenShots/inputScreen.png)
+![Input](LoginFormApp/ScreenShots/inputScreen.png)
 
 ---
 
