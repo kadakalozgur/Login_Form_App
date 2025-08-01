@@ -16,6 +16,9 @@
 ### 🔐 Login Screen / Giriş Ekranı 
 ![Login](LoginFormApp/ScreenShots/loginScreen.png)
 
+### 🔐 Input Screen / Girdi Ekranı 
+![Login](LoginFormApp/ScreenShots/inputScreen.png)
+
 ---
 
 ## 🌍 English
