@@ -14,9 +14,9 @@
 ![Register](LoginFormApp/ScreenShots/SignUpScreen.png)
 
 ### 🔐 Login Screen / Giriş Ekranı 
-![Login](LoginFormApp/ScreenShots/loginScreen.png)
+![Login](LoginFormApp/ScreenShots/LoginScreen.png)
 
-### 🔐 Input Screen / Girdi Ekranı 
+### 🧾 Input Screen / Girdi Ekranı 
 ![Input](LoginFormApp/ScreenShots/inputScreen.png)
 
 ---
