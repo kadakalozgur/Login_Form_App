@@ -33,7 +33,7 @@ A basic and functional login/register application developed with C# and Windows 
 - ✅ Username duplication check  
 - 🎨 Modern and clean UI design  
 
-> 💡 **Note:** File handling logic has been partially assisted by artificial intelligence to ensure clean and efficient implementation.  
+> 💡 **Note:** Artificial intelligence was used in the file operations section.
 
 > ⚠️ **Important:** Do not manually modify the generated `users.txt` file. Any manual changes such as editing or deleting user data may break the application.
 
