@@ -1,3 +1,5 @@
+## 🌍 English
+
 # 🔐 Login Form App
 
 ### - Developed by Özgür Kadakal
@@ -18,8 +20,6 @@
 ![Input](LoginFormApp/ScreenShots/inputScreen.png)
 
 ---
-
-## 🌍 English
 
 ### 🔐 Login Form App  
 A basic and functional login/register application developed with C# and Windows Forms by Özgür Kadakal.
