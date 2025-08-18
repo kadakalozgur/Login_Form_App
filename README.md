@@ -2,21 +2,19 @@
 
 ### - Developed by Özgür Kadakal
 
-**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.
-
 **⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.
 
 ---
 
 ## 🖼️ Preview
 
-### 🧾 Register Screen / Kayıt Ekranı  
+### 🧾 Register Screen  
 ![Register](LoginFormApp/ScreenShots/SignUpScreen.png)
 
-### 🔐 Login Screen / Giriş Ekranı 
+### 🔐 Login Screen  
 ![Login](LoginFormApp/ScreenShots/LoginScreen.png)
 
-### 🧾 Input Screen / Girdi Ekranı 
+### 🧾 Input Screen  
 ![Input](LoginFormApp/ScreenShots/inputScreen.png)
 
 ---
@@ -39,6 +37,33 @@ A basic and functional login/register application developed with C# and Windows 
 
 ---
 
+## 📬 Contact  
+For any feedback, questions, or suggestions, feel free to contact me:  
+📧 ozgurkreach@gmail.com
+
+---
+
+# 🔐 Login Form App
+
+### - Geliştirici: Özgür Kadakal
+
+**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.
+
+---
+
+## 🖼️ Önizleme
+
+### 🧾 Kayıt Ekranı  
+![Register](LoginFormApp/ScreenShots/SignUpScreen.png)
+
+### 🔐 Giriş Ekranı  
+![Login](LoginFormApp/ScreenShots/LoginScreen.png)
+
+### 🧾 Girdi Ekranı  
+![Input](LoginFormApp/ScreenShots/inputScreen.png)
+
+---
+
 ## 🇹🇷 Türkçe
 
 ### 🔐 Login Form App  
@@ -57,9 +82,6 @@ C# ve Windows Forms kullanılarak Özgür Kadakal tarafından geliştirilmiş te
 
 ---
 
-## 📬 Contact | İletişim  
-For any feedback, questions, or suggestions, feel free to contact me:  
-📧 ozgurkreach@gmail.com
-
+## 📬 İletişim  
 Her türlü geri bildirim, soru veya öneri için:  
 📧 ozgurkreach@gmail.com
