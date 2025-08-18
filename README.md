@@ -35,6 +35,9 @@ A basic and functional login/register application developed with C# and Windows 
 
 > ⚠️ **Important:** Do not manually modify the generated `users.txt` file. Any manual changes such as editing or deleting user data may break the application.
 
+🧑‍💻 *This project was developed from scratch by Özgür Kadakal.*  
+📌 *All code and assets are original.*
+
 ---
 
 ## 📬 Contact  
@@ -79,6 +82,9 @@ C# ve Windows Forms kullanılarak Özgür Kadakal tarafından geliştirilmiş te
 > 💡 **Not:** Dosya işlemleri kısmında yapay zekadan faydalanılmıştır.  
 
 > ⚠️ **Önemli Uyarı:** Uygulama tarafından oluşturulan `users.txt` dosyasında elle değişiklik yapmayınız. Kullanıcı verilerini silmek veya dosyayı düzenlemek uygulamanın çalışmasını bozabilir.
+
+🧑‍💻 *Bu proje Özgür Kadakal tarafından sıfırdan geliştirilmiştir.*  
+📌 *Tüm kodlar ve içerikler özgündür.*
 
 ---
 
