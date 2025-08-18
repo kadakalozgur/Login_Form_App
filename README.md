@@ -43,6 +43,8 @@ For any feedback, questions, or suggestions, feel free to contact me:
 
 ---
 
+## 🇹🇷 Türkçe
+
 # 🔐 Login Form App
 
 ### - Geliştirici: Özgür Kadakal
