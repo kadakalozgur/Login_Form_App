@@ -43,6 +43,8 @@ For any feedback, questions, or suggestions, feel free to contact me:
 
 ---
 
+## 🇹🇷 Türkçe
+
 # 🔐 Login Form App
 
 ### - Geliştirici: Özgür Kadakal
@@ -63,8 +65,6 @@ For any feedback, questions, or suggestions, feel free to contact me:
 ![Input](LoginFormApp/ScreenShots/inputScreen.png)
 
 ---
-
-## 🇹🇷 Türkçe
 
 ### 🔐 Login Form App  
 C# ve Windows Forms kullanılarak Özgür Kadakal tarafından geliştirilmiş temel ve işlevsel bir giriş/kayıt uygulamasıdır.
