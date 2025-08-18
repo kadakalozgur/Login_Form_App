@@ -1,89 +1,157 @@
-# 🔐 Login Form App
+# 🚗 Endless Traffic Runner 🎮
 
 ### - Developed by Özgür Kadakal
 
-**⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.
+**⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.  
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Gameplay Previews
 
-### 🧾 Register Screen  
-![Register](LoginFormApp/ScreenShots/SignUpScreen.png)
+### 🎮 In-Game Screenshot 1
+![InGame1](ScreenShots/car.png)
 
-### 🔐 Login Screen  
-![Login](LoginFormApp/ScreenShots/LoginScreen.png)
+### 🎮 In-Game Screenshot 2
+![InGame2](ScreenShots/cardrift.png)
 
-### 🧾 Input Screen  
-![Input](LoginFormApp/ScreenShots/inputScreen.png)
+### 🎮 In-Game Screenshot 3
+![InGame3](ScreenShots/1.png)
+
+### 🎮 In-Game Screenshot 4
+![InGame3](ScreenShots/2.png)
+
+### 🎮 In-Game Screenshot 5
+![InGame3](ScreenShots/3.png)
 
 ---
 
 ## 🌍 English
 
-### 🔐 Login Form App  
-A basic and functional login/register application developed with C# and Windows Forms by Özgür Kadakal.
+### 🚗 Endless Traffic Runner
+An endless one-way traffic car game developed in Unity by **Özgür Kadakal**, featuring dynamic traffic, drift effects, and immersive sound design.  
 
-### ✨ Features  
-- 🖱️ Button and label **hover effects** for improved interactivity  
-- 🔐 Password **show/hide toggle**  
-- 🗂️ Text file (`users.txt`) used as a simple data storage method  
-- ✅ Username duplication check  
-- 🎨 Modern and clean UI design  
-
-> 💡 **Note:** Artificial intelligence was used in the file operations section.
-
-> ⚠️ **Important:** Do not manually modify the generated `users.txt` file. Any manual changes such as editing or deleting user data may break the application.
+### ✨ Features
+- 🛣 Endless one-way road  
+- 🚘 Continuously spawning cars with increasing speed  
+- 💨 Drift effects with tire smoke  
+- 🔊 Engine sounds, braking, and drifting audio  
+- 🏁 Game Over screen with "Try Again" button  
+- ⏸ Pause the game with **ESC** key  
+- 🛞 Realistic wheel rotation and asphalt tire marks  
+- 🎮 Smooth car controls and responsive gameplay  
 
 ---
 
-## 📬 Contact  
+## 📦 Assets Used  
+
+This project uses the following assets from the Unity Asset Store (with modifications where noted):  
+- 🚗 **Arcade Free Racing Car**  
+- 🚘 **Not Lonely**  
+- 🚙 **Pack_Free_Car**  
+- 🏎 **Prometer Car Control** *(Modified: Custom changes applied to improve handling)*  
+
+---
+
+## 🛠 Unity Version
+
+- **2022.3.62f1**  
+> This project was developed and tested with **Unity 2022.3.62f1**.
+
+---
+
+## ⚠️ Important Notice
+
+1. When opening the project through Unity Hub for the first time, loading may take a long time. This is normal as Unity will rebuild the Library folder.  
+2. On the first project launch, you will see an **empty scene** (no objects in the Hierarchy).  
+   To load the game objects, go to the **`Assets/Scenes/`** folder and double-click on **`SampleScene`**.  
+
+📸 **Screenshot:**  
+![OpenSampleScene](ScreenShots/4.png)  
+![OpenSampleScene](ScreenShots/5.png)  
+
+---
+
+## 📬 Contact
+
 For any feedback, questions, or suggestions, feel free to contact me:  
-📧 ozgurkreach@gmail.com
+📧 ozgurkreach@gmail.com  
 
 ---
 
-## 🇹🇷 Türkçe
-
-# 🔐 Login Form App
+# 🚗 Sonsuz Trafik Oyunu 🎮
 
 ### - Geliştirici: Özgür Kadakal
 
-**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.
+**⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün şekilde çalışmayabilir.  
 
 ---
 
-## 🖼️ Önizleme
+## 🖼️ Oynanış Önizlemeleri
 
-### 🧾 Kayıt Ekranı  
-![Register](LoginFormApp/ScreenShots/SignUpScreen.png)
+### 🎮 Oyun İçi Görüntü 1
+![InGame1](ScreenShots/car.png)
 
-### 🔐 Giriş Ekranı  
-![Login](LoginFormApp/ScreenShots/LoginScreen.png)
+### 🎮 Oyun İçi Görüntü 2
+![InGame2](ScreenShots/cardrift.png)
 
-### 🧾 Girdi Ekranı  
-![Input](LoginFormApp/ScreenShots/inputScreen.png)
+### 🎮 Oyun İçi Görüntü 3
+![InGame3](ScreenShots/1.png)
+
+### 🎮 Oyun İçi Görüntü 4
+![InGame3](ScreenShots/2.png)
+
+### 🎮 Oyun İçi Görüntü 5
+![InGame3](ScreenShots/3.png)
 
 ---
 
 ## 🇹🇷 Türkçe
 
-### 🔐 Login Form App  
-C# ve Windows Forms kullanılarak Özgür Kadakal tarafından geliştirilmiş temel ve işlevsel bir giriş/kayıt uygulamasıdır.
+### 🚗 Sonsuz Trafik Oyunu
+Unity ile **Özgür Kadakal** tarafından geliştirilmiş, tek yönlü sonsuz bir trafik araba oyunu, dinamik trafik ve etkileyici ses efektleri ile.  
 
-### ✨ Özellikler  
-- 🖱️ Buton ve etiketlerde **hover (üzerine gelme) efektleri**  
-- 🔐 Şifre **gizleme/gösterme özelliği**  
-- 🗂️ `users.txt` dosyası basit bir veri saklama yöntemi olarak kullanılır  
-- ✅ Kullanıcı adı tekrar kontrolü  
-- 🎨 Modern ve sade arayüz tasarımı  
-
-> 💡 **Not:** Dosya işlemleri kısmında yapay zekadan faydalanılmıştır.  
-
-> ⚠️ **Önemli Uyarı:** Uygulama tarafından oluşturulan `users.txt` dosyasında elle değişiklik yapmayınız. Kullanıcı verilerini silmek veya dosyayı düzenlemek uygulamanın çalışmasını bozabilir.
+### ✨ Özellikler
+- 🛣 Sonsuz tek yönlü yol  
+- 🚘 Sürekli spawnlanan arabalar ve hızlanma  
+- 💨 Drift efekti ve lastik dumanı  
+- 🔊 Motor sesi, fren ve drift sesleri  
+- 🏁 Game Over ekranı ve "Try Again" butonu  
+- ⏸ **ESC** tuşu ile oyunu duraklatma  
+- 🛞 Lastiklerin gerçekçi dönme animasyonu ve asfalt izleri  
+- 🎮 Akıcı araba kontrolleri ve responsive oynanış  
 
 ---
 
-## 📬 İletişim  
+## 📦 Kullanılan Assetler  
+
+Bu projede Unity Asset Store’dan alınan şu assetler kullanılmıştır (belirtilenlerde değişiklik yapılmıştır):  
+- 🚗 **Arcade Free Racing Car**  
+- 🚘 **Not Lonely**  
+- 🚙 **Pack_Free_Car**  
+- 🏎 **Prometer Car Control** *(Değiştirildi: Kullanım kolaylığı için özel değişiklikler yapıldı)*  
+
+---
+
+## 🛠 Unity Sürümü
+
+- **2022.3.62f1**  
+> Proje, **Unity 2022.3.62f1** sürümü ile geliştirilmiş ve test edilmiştir.
+
+---
+
+## ⚠️ Önemli Uyarı
+
+1. Projeyi Unity Hub üzerinden ilk kez açarken yüklenme süresi uzun olabilir. Bu normaldir çünkü Unity, Library klasörünü yeniden oluşturacaktır.  
+2. Proje ilk açıldığında **Hierarchy tamamen boş** görünecektir (hiç obje olmayacaktır).  
+   Oyun objelerini yüklemek için **`Assets/Scenes/`** klasörüne gidip **SampleScene** dosyasına çift tıklayın.  
+
+📸 **Ekran Görüntüleri:**  
+![OpenSampleScene](ScreenShots/4.png)  
+![OpenSampleScene](ScreenShots/5.png)  
+
+---
+
+## 📬 İletişim
+
 Her türlü geri bildirim, soru veya öneri için:  
 📧 ozgurkreach@gmail.com
