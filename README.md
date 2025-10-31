@@ -1,6 +1,6 @@
 ## 🌍 English
 
-# 🔐 Login Form Ap
+# 🔐 Login Form App
 
 ### - Developed by Özgür Kadakal
 
